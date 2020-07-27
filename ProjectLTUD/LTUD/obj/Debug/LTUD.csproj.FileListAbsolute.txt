@@ -1,0 +1,33 @@
+D:\ProjectLTUD\LTUD\obj\Debug\ProjectLTUD.frmDanhMucKhachHang.resources
+D:\ProjectLTUD\LTUD\obj\Debug\ProjectLTUD.frmLogin.resources
+D:\ProjectLTUD\LTUD\obj\Debug\ProjectLTUD.frmHoaDonBanHang.resources
+D:\ProjectLTUD\LTUD\obj\Debug\LTUD.Properties.Resources.resources
+D:\ProjectLTUD\LTUD\obj\Debug\ProjectLTUD.frmQuanLyNV.resources
+D:\ProjectLTUD\LTUD\obj\Debug\ProjectLTUD.frmTimKiemHoaDon.resources
+D:\ProjectLTUD\LTUD\obj\Debug\LTUD.csproj.GenerateResource.cache
+D:\ProjectLTUD\LTUD\obj\Debug\LTUD.csproj.CoreCompileInputs.cache
+D:\ProjectLTUD\LTUD\obj\Debug\LTUD.csprojAssemblyReference.cache
+D:\ProjectLTUD\LTUD\bin\Debug\LTUD.exe.config
+D:\ProjectLTUD\LTUD\bin\Debug\LTUD.exe
+D:\ProjectLTUD\LTUD\bin\Debug\LTUD.pdb
+D:\ProjectLTUD\LTUD\obj\Debug\LTUD.exe
+D:\ProjectLTUD\LTUD\obj\Debug\LTUD.pdb
+D:\ProjectLTUD\LTUD\obj\Debug\LTUD.frmDanhMucHangHoa.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\bin\Debug\LTUD.exe.config
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\bin\Debug\LTUD.exe
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\bin\Debug\LTUD.pdb
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.csprojAssemblyReference.cache
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.Properties.Resources.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.csproj.GenerateResource.cache
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.exe
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.pdb
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.frmLogin.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.frmDanhMucKhachHang.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.frmQuanLyNV.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.frmHomeAdmin.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.frmHomeEmp.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.frmBanHang.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.frmChiTietHoaDon.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.frmHoaDon.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.frmKhoHang.resources
+C:\Users\tranq\OneDrive\Documents\Visual Studio 2019\prj\ProjectLTUD\LTUD\obj\Debug\LTUD.frmChangePassword.resources
